@@ -6,20 +6,20 @@ Examples of expected output:
 
 ```plaintext
 Give the first number:
-8
+*8*
 Give the second number:
-3
+*3*
 Give the third number:
-3
+*3*
 The sum of the numbers is 14
 ```
 
 ```plaintext
 Give the first number:
-3
+*3*
 Give the second number:
--1
+*-1*
 Give the third number:
-2
+*2*
 The sum of the numbers is 4
 ```
